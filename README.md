@@ -1,2 +1,2 @@
 # leraning pyhton developing
-leran the python concepts from youtube..
+leran the python concepts from youtube.
